@@ -1,0 +1,6 @@
+{
+  "name": "Spotify",
+  "description": "Spotify music player app with curated tracks, playlists, queue management, liked songs, and audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
